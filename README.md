@@ -1,5 +1,5 @@
 # Termos
-Termos is a Terminal Os made in x86 assembly and C.
+Termos is a Terminal Os made in x86 assembly and C++.
 Termos is a project aimed to improve support of pre existing standards and cross compatibility as well as improving access to a enviroment meant for tinkering. This allows people to create more odball software and hopefully create a community of programming that is inviting to armature programmers and professionals alike!
 Main Plan:
 > Make Font Support and Boot page.
